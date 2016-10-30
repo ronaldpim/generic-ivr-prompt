@@ -1,7 +1,7 @@
-# generic-ivr-prompt
+# generic-ivr-prompts
 Generic IVR prompts
 
-Generic US-Enginlish IVR Voice prompts for usage with PBX/IVR systems.  All files are in WAV (Microsoft) signed 16-bit PCM.
+Generic US-English IVR Voice prompts for usage with PBX/IVR systems.  All files are in WAV (Microsoft) signed 16-bit PCM.
 
 
 # Scripts
