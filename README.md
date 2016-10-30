@@ -1,2 +1,2 @@
-# ivr-prompt
+# generic-ivr-prompt
 Generic IVR prompts
