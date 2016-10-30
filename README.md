@@ -9,7 +9,7 @@ Generic US-English IVR Voice prompts for usage with PBX/IVR systems.  All files 
 > [1-second pause] This call may be monitored or recorded for quality assurances purposes. For sales, press one. For support, press two. For billing, press three.  If you know your parties extension you may dial it now. For the operator, press zero. [5-second pause]
 
 ##Available Agents Greeting	
->Transferring your call to the next available representative.
+>Transferring your call to the next available agent.
 
 ##Waiting Message	
 >All of our agents are currently unavailable. Please hold and we will answer your call as soon as possible.
