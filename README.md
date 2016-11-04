@@ -21,7 +21,7 @@ Generic US-English IVR Voice prompts for usage with PBX/IVR systems.  All files 
 >You have reached us outside of our normal business hours.  Please leave your name, company, number, and a brief message and we will return your call as soon as possible.
 
 ##Delay Announcement Message	
-All of our agents are currently unavailable.  Press 1 to leave a voicemail, press 2 to request that the next available agent call you back or remain on the line if you would like to continue to hold.
+>All of our agents are currently unavailable.  Press 1 to leave a voicemail, press 2 to request that the next available agent call you back or remain on the line if you would like to continue to hold.
 
 ##Full Waiting Queue Message	
 >We are currently experiencing high call volume. Please leave a message with your name, company, and phone number and we will return your call as soon as possible.
