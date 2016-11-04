@@ -27,7 +27,7 @@ Generic US-English IVR Voice prompts for usage with PBX/IVR systems.  All files 
 >We are currently experiencing high call volume. Please leave a message with your name, company, and phone number and we will return your call as soon as possible.
 
 ##Queue Callback Message	
-Your place in the waiting queue has been reserved. The next available agent will call you back. Goodbye.
+>Your place in the waiting queue has been reserved. The next available agent will call you back. Goodbye.
 
 ##Unsuccessful Queue Callback Message	
 >Please leave your name, company, number, and a brief message and we will return your call as soon as possible.
